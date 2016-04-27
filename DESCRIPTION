@@ -1,0 +1,11 @@
+Package: Final
+Type: Package
+Title: Statistical Averages of Stock Positions
+Version: 0.1.0
+Author: Nate Schubert
+Maintainer: <nateschubert@gmail.com>
+Description: This package contains a set of functions that will get the average of
+            each column of data including Open, High, Low and Close.
+License: GNU License
+LazyData: TRUE
+RoxygenNote: 5.0.1
